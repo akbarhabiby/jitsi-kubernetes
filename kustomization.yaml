@@ -1,0 +1,6 @@
+resources:
+- 010-jvb-service.yaml
+- 020-rbac.yaml
+- 030-deployment.yaml
+- 040-web-service.yaml
+- 041-ingress.yaml
